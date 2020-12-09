@@ -53,8 +53,8 @@
 	--header-primary: rgb(var(--fontwhite1));
 	--header-secondary: rgb(var(--fontwhite2));
 	--text-normal: #99ccff;
-  --text-muted: #b3d9ff;
-  --text-link: #c7ceea;
+  	--text-muted: #b3d9ff;
+  	--text-link: #c7ceea;
 	--channels-default: rgb(var(--fontwhite4));
 	--interactive-normal: rgb(var(--fontwhite3));
 	--interactive-hover: rgb(var(--fontwhite2));
